@@ -1,0 +1,164 @@
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+C:\Users\dudu\source\repos\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+C:\Users\dudu\Documents\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+D:\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.staticwebassets.endpoints.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

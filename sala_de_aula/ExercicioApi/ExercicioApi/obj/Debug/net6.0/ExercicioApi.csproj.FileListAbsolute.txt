@@ -1,0 +1,192 @@
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+D:\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+C:\Users\0040482411031\Documents\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+C:\Users\0040482411031\Documents\c# api\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+C:\Users\dudu\OneDrive\Facul\Semestre 2\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.Development.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\appsettings.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.exe
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.deps.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.runtimeconfig.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\ExercicioApi.pdb
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.AssemblyReference.cache
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfoInputs.cache
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.AssemblyInfo.cs
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.csproj.CoreCompileInputs.cache
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cs
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.MvcApplicationPartsAssemblyInfo.cache
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.ExercicioApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ExercicioApi.props
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExercicioApi.props
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExercicioApi.props
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\scopedcss\bundle\ExercicioApi.styles.css
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\Exercici.66E4992B.Up2Date
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\refint\ExercicioApi.dll
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.pdb
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ExercicioApi.genruntimeconfig.cache
+D:\API C# Javascript - Wilton\wilton\ExercicioApi\ExercicioApi\obj\Debug\net6.0\ref\ExercicioApi.dll

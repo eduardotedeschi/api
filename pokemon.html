@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex API</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .pokemon-container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border: 1px solid #cccc;
+            padding: 20px;
+            width: 300px;
+            margin-top: 20px;
+        }
+
+        img{
+            max-width: 150px;
+        }
+
+        button{
+            margin: 10px;
+            padding: 10px;
+            background-color: rgb(222, 222, 119);
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover{
+            background-color: rgb(81, 81, 253);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pokédex</h1>
+    <div>
+        <input type="text" id="pokemonName" placeholder="Digite o nome do Pokemón!">
+        <button onclick="searchPokemon()">Buscar Pokémon</button>
+        <button onclick="getRandomPokemon()">Buscar Pokémon Aleatório</button>
+    </div>
+
+    <div class="pokemon-container" id="pokemonContainer">
+        <h2 id="pokemonNameDisplay"></h2>
+        <img src="" alt="Imagem do Pokemón" id="pokemonImage">
+        <p id="pokemonInfo"></p>
+    </div>
+
+    <script>
+        const apiUrl = `https://pokeapi.co/api/v2/pokemon/`
+
+        async function searchPokemon(){
+            const name = document.getElementById('pokemonName').value.toLowerCase();
+
+            if(name){
+                fetchPokemon(apiUrl + name);
+            }else{
+                alert("Insira o nome do Pokemon!");
+            }
+        }
+
+        async function getRandomPokemon(){
+            const randomId = Math.floor(Math.random() * 898) + 1;
+            fetchPokemon(apiUrl + randomId);
+        }
+
+        async function fetchPokemon(url){
+
+            try{
+
+                const response = await fetch(url);
+                if(!response.ok){
+                    throw new Error("Pokémon não encontrado!");
+                }
+
+                const pokemon = await response.json();
+                displayPokemon(pokemon);
+
+            } catch(error){
+                alert(error.message);
+            }
+
+            function displayPokemon(pokemon){
+                const pokemonContainer = document.getElementById('pokemonContainer');
+                const pokemonNameDisplay = document.getElementById('pokemonNameDisplay');
+                const pokemonImage = document.getElementById('pokemonImage');
+                const pokemonInfo = document.getElementById('pokemonInfo');
+
+                pokemonNameDisplay.innerText = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1);
+                pokemonImage.src = pokemon.sprites.front_default;
+                pokemonInfo.innerText = `ID: ${pokemon.id} | Tipo: ${pokemon.types.map(type => type.type.name).join(', ')}`;
+
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "HistoriaApi.Controllers.GenioController",
+    "Method": "Post",
+    "RelativePath": "Genio/Adicionar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoGenio",
+        "Type": "HistoriaApi.Genio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HistoriaApi.Controllers.GenioController",
+    "Method": "Put",
+    "RelativePath": "Genio/Atualizar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "GenioAtt",
+        "Type": "HistoriaApi.Genio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HistoriaApi.Controllers.GenioController",
+    "Method": "Delete",
+    "RelativePath": "Genio/Deletar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HistoriaApi.Controllers.GenioController",
+    "Method": "ListarTodas",
+    "RelativePath": "Genio/Exibir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HistoriaApi.Controllers.GenioController",
+    "Method": "GetGenio",
+    "RelativePath": "Genio/Procurar/{ano}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ano",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetGenio"
+  }
+]

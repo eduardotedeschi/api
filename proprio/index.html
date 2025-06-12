@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gênio da Época</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"></link>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center">Gênio da Época</h1>
+        <div class="card-body">
+            <div class="card mt-4"> <!--ExibirGenio-->
+                <h5 class="card-title">Exibir Gênios</h5>
+                <button class="btn btn-primary" onclick="ExibirGenio()">Exibir</button>
+                <div class="mt-3" id="mostrarExibir"></div>
+            </div>
+
+            <div class="card mt-4"> <!--ConsultarGenio-->
+                <h5 class="card-title">Encontrar Gênio</h5>
+                <!-- </div id="alertaEncontrar"></div> -->
+                <div class="form-group">
+                    <label for="inputAno">Ano</label>
+                    <input type="number" class="form-control" id="inputAno" placeholder="Coloque o ano">
+                </div>
+                <button class="btn btn-primary" onclick="ConsultarGenio()">Pesquisar</button>
+                <div class="mt-3" id="mostrarEncontrar"></div>
+            </div>
+
+            <div class="card mt-4"> <!--AdicionarGenio-->
+                <h5 class="card-title">Adicionar Gênio</h5>
+                <!-- </div id="alertaAdicionar"></div> -->
+                <div class="form-group">
+                    <label for="inputAddNome">Nome</label>
+                    <input class="form-control" id="inputAddNome" placeholder="Coloque o nome">
+                    <label for="inputAddNascimento">Ano Nascimento</label>
+                    <input type="number" class="form-control" id="inputAddNascimento" placeholder="Coloque o ano de nascimento">
+                    <label for="inputAddObito">Ano Óbito</label>
+                    <input type="number" class="form-control" id="inputAddObito" placeholder="Coloque o ano de óbito">
+                    <label for="inputAddDescricao">Descrição</label>
+                    <input  class="form-control" id="inputAddDescricao" placeholder="Coloque a descricao">
+                    <label for="inputAddContribuicoes">Contruibuições</label>
+                    <input  class="form-control" id="inputAddContribuicoes" placeholder="Coloque a contribuição">
+                </div>
+                <button class="btn btn-primary" onclick="AdicionarGenio()">Adicionar</button>
+                <div class="mt-3" id="mostrarAdicionar"></div>
+            </div>
+
+            <div class="card mt-4"> <!--AtualizarGenio-->
+                <h5 class="card-title">Atualizar Gênio</h5>
+                <!-- </div id="alertaAtualizar"></div> -->
+                <div class="form-group">
+                    <label for="inputAttId">ID</label>
+                    <input type="number" class="form-control" id="inputAttId" placeholder="Coloque o ID">
+                    <label for="inputAttNome">Nome</label>
+                    <input class="form-control" id="inputAttNome" placeholder="Coloque o nome">
+                    <label for="inputAttAnoNascimento">Ano Nascimento</label>
+                    <input type="number" class="form-control" id="inputAttAnoNascimento" placeholder="Coloque o ano de nascimento">
+                    <label for="inputAttAnoObito">Ano Óbito</label>
+                    <input type="number" class="form-control" id="inputAttAnoObito" placeholder="Coloque o ano de óbito">
+                    <label for="inputAttDescricao">Descrição</label>
+                    <input  class="form-control" id="inputAttDescricao" placeholder="Coloque a descricao">
+                    <label for="inputAttContribuicoes">Contruibuições</label>
+                    <input  class="form-control" id="inputAttContribuicoes" placeholder="Coloque a contribuição">
+                </div>
+                <button class="btn btn-primary" onclick="AtualizarGenio()">Atualizar</button>
+                <div class="mt-3" id="mostrarAtualizar"></div>
+            </div>
+
+            <div class="card mt-4"> <!--DeletarGenio-->               
+                <h5 class="card-title">Deletar Gênio</h5>
+                <!-- </div id="alertaDeletar"></div> -->
+                <div class="form-group">
+                    <label for="inputDelId">ID</label>
+                    <input type="number" class="form-control" id="inputDelId" placeholder="Coloque o ID">
+                </div>
+                <button class="btn btn-primary" onclick="DeletarGenio()">Excluir</button>
+                <div class="mt-3" id="mostrarDeletar"></div>
+            </div>
+
+        </div>
+    </div>
+    
+
+    <script>
+        const apiBaseURL = "https://localhost:7283";
+
+        function ExibirGenio(){
+            fetch(`${apiBaseURL}/Genio/Exibir`)
+                .then(response => {
+                    return response.json()
+                })
+                .then(genios => {
+                    const container = document.getElementById('mostrarExibir');
+                    container.innerHTML = ''; 
+
+                    genios.forEach(genio => {
+                        container.innerHTML += `
+                            <div class="card mt-3">
+                                <div class="card-body">
+                                    <h5><strong>ID: </strong> ${genio.genioID}</h5>
+                                    <p><strong>Nome: </strong> ${genio.genioNome}</p>
+                                    <p><strong>Ano de Nascimento: </strong> ${genio.anoNascimento}</p>
+                                    <p><strong>Ano de Óbito: </strong> ${genio.anoObito}</p>
+                                    <p><strong>Descrição: </strong> ${genio.descricao}</p>
+                                    <p><strong>Contribuições: </strong> ${genio.contribuicoes}</p>
+                                </div>
+                            </div>
+                        `;
+                    });
+                })  
+        }
+        
+        function ConsultarGenio(){
+            const ano = document.getElementById('inputAno').value;
+            if(!ano){
+                alert("Preencha o ano!");
+                //document.getElementById('alertaEncontrar').innerHTML = `<p>Preencha o ano!</p>`;
+                return;
+            }else if(ano>2024){
+                alert("Ano maior que o atual!");
+                return;
+            }
+            fetch(`${apiBaseURL}/Genio/Procurar/${ano}`)
+                .then(response => {
+                    return response.json()
+                })
+                .then(genio => {
+                    document.getElementById('mostrarEncontrar').innerHTML =
+                    `<h5>Gênio encontrado: </h5>
+                    <p><strong>ID: </strong> ${genio.genioID}</p>
+                    <p><strong>Nome: </strong> ${genio.genioNome}</p>
+                    <p><strong>Nascimento: </strong> ${genio.anoNascimento}</p>
+                    <p><strong>Óbito: </strong> ${genio.anoObito}</p>
+                    <p><strong>Descrição: </strong> ${genio.descricao}</p>
+                    <p><strong>Contruibuições: </strong> ${genio.contribuicoes}</p>`
+                })
+                .catch(error =>
+                    console.error('Error: ', error)
+                );
+        }
+
+        function AdicionarGenio(){
+
+            const nome = document.getElementById('inputAddNome').value;
+            const anoNascimento = document.getElementById('inputAddNascimento').value;
+            const anoObito = document.getElementById('inputAddObito').value;
+            const descricao = document.getElementById('inputAddDescricao').value;
+            const contribuicoes = document.getElementById('inputAddContribuicoes').value;
+
+            if(!nome){
+                alert("Preencha o nome corretamente!!");
+                return;
+            }else if(!anoNascimento || anoNascimento>2024){
+                alert("Preencha o ano de nascimento corretamente!");
+                return;
+            }else if(!anoObito || anoObito>2024){
+                alert("Preencha o ano de óbito corretamente!!");
+                return;
+            }else if(!descricao){
+                alert("Preencha a descrição corretamente!!");
+                return;
+            }else if(!contribuicoes){
+                alert("Preencha as contribuições corretamente!!");
+                return;
+            }
+
+            const novoGenio = {
+                GenioNome: nome,
+                AnoNascimento: parseInt(anoNascimento),
+                AnoObito: parseInt(anoObito),
+                Descricao: descricao,
+                Contribuicoes: contribuicoes
+            };
+
+            fetch(`${apiBaseURL}/Genio/Adicionar`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(novoGenio)
+            })
+
+            .then(response => {
+                return response.json();
+            })
+            .then(genioAdicionado => {
+                document.getElementById('mostrarAdicionar').innerHTML = 
+                `<p>Gênio adicionado com sucesso!</p>`;
+            })
+            
+            .catch(error => {
+                document.getElementById('mostrarAdicionar').innerHTML = `<p>Erro ao adicionar gênio</p>`;
+            });
+        }
+
+        function AtualizarGenio(){
+
+            const id = document.getElementById('inputAttId').value;
+            const nome = document.getElementById('inputAttNome').value;
+            const anoNascimento = document.getElementById('inputAttAnoNascimento').value;
+            const anoObito = document.getElementById('inputAttAnoObito').value;
+            const descricao = document.getElementById('inputAttDescricao').value;
+            const contribuicoes = document.getElementById('inputAttContribuicoes').value;
+
+            if(!nome){
+                alert("Preencha o nome corretamente!!");
+                return;
+            }else if(!anoNascimento || anoNascimento>2024){
+                alert("Preencha o ano de nascimento corretamente!");
+                return;
+            }else if(!anoObito || anoObito>2024 || anoObito<anoNascimento){
+                alert("Preencha o ano de óbito corretamente!!");
+                return;
+            }else if(!descricao){
+                alert("Preencha a descrição corretamente!!");
+                return;
+            }else if(!contribuicoes){
+                alert("Preencha as contribuições corretamente!!");
+                return;
+            }
+
+            const genioAtualizado = {
+                GenioNome: nome,
+                AnoNascimento: parseInt(anoNascimento),
+                AnoObito: parseInt(anoObito),
+                Descricao: descricao,
+                Contribuicoes: contribuicoes
+            };
+
+            fetch(`${apiBaseURL}/Genio/Atualizar/${id}`, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(genioAtualizado)
+            })
+
+            .then(response => {
+                return response.json();
+            })
+
+            .then(genio => {
+                document.getElementById('mostrarAtualizar').innerHTML = 
+                `<p>Gênio atualizado com sucesso!</p>`;
+            })
+
+            .catch(error => {
+                document.getElementById('mostrarAtualizar').innerHTML = `<p>Erro ao atualizar gênio</p>`;
+            });
+
+        }
+
+        function DeletarGenio(){
+            const id = document.getElementById('inputDelId').value;
+            
+            if(!id){
+                alert("Preencha o ID!");
+            }
+
+            fetch(`${apiBaseURL}/Genio/Deletar/${id}`, {
+                method: 'DELETE',
+            })
+            .then(response => {
+                if (response.status === 204) {
+                    document.getElementById('mostrarDeletar').innerHTML = `<p>Deletado com sucesso!</p>`;
+                } else if (response.status === 404) {
+                        document.getElementById('mostrarDeletar').innerHTML = `<p>ID não encontrado!</p>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error: ', error)
+            });
+        }
+
+    </script>
+</body>
+</html>
