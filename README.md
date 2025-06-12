@@ -1,2 +1,2 @@
 # api
-Conjunto de CRUDEs de APIs
+Desenvolvimento e consumo de APIs. Foram consumidas duas APIs externas, "ViaCEP" e "PokéAPI". Também foram desenvolvidas dois CRUDEs de APIs, uma sobre receitas recomendadas com base no IMC do usuário e outra sobre grandes figuras da história baseado em que ano o usuário insere. As duas foram consumidas, porém só é possível consumir se a hospedagem da API for local, pois elas não estão onlines (ainda, pois estou trabalhando para torna-las acessíveis).
