@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Semestre II\\API C# Javascript - Wilton\\meu\\HistoriaApi\\",
+  "WorkspaceRootPath": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|d:\\semestre ii\\api c# javascript - wilton\\meu\\historiaapi\\historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\tedes\\onedrive\\documentos\\github\\api\\proprio\\historiaapi\\historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|d:\\semestre ii\\api c# javascript - wilton\\meu\\historiaapi\\historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\tedes\\onedrive\\documentos\\github\\api\\proprio\\historiaapi\\historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GenioController.cs",
-              "DocumentMoniker": "D:\\Semestre II\\API C# Javascript - Wilton\\meu\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
+              "DocumentMoniker": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
               "RelativeDocumentMoniker": "HistoriaApi\\Controllers\\GenioController.cs",
-              "ToolTip": "D:\\Semestre II\\API C# Javascript - Wilton\\meu\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
+              "ToolTip": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
               "RelativeToolTip": "HistoriaApi\\Controllers\\GenioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T12:19:05.809Z",
               "IsPinned": true,
@@ -39,16 +39,21 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Genio.cs",
-              "DocumentMoniker": "D:\\Semestre II\\API C# Javascript - Wilton\\meu\\HistoriaApi\\HistoriaApi\\Genio.cs",
+              "DocumentMoniker": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
               "RelativeDocumentMoniker": "HistoriaApi\\Genio.cs",
-              "ToolTip": "D:\\Semestre II\\API C# Javascript - Wilton\\meu\\HistoriaApi\\HistoriaApi\\Genio.cs",
+              "ToolTip": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
               "RelativeToolTip": "HistoriaApi\\Genio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:19:03.115Z"
+              "WhenOpened": "2024-10-15T12:19:03.115Z",
+              "EditorCaption": ""
             }
           ]
         }

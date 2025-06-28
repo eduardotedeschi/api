@@ -1,0 +1,11 @@
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\HistoriaApi.exe
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\HistoriaApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\HistoriaApi.deps.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\HistoriaApi.runtimeconfig.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\HistoriaApi.pdb
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

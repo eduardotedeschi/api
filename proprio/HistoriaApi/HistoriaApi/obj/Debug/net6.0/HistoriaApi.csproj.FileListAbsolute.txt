@@ -162,3 +162,39 @@ D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\bin\Debug\
 D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 D:\Semestre II\API C# Javascript - Wilton\meu\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.staticwebassets.endpoints.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.exe
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.deps.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.runtimeconfig.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\HistoriaApi.pdb
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.AssemblyReference.cache
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfoInputs.cache
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.AssemblyInfo.cs
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.csproj.CoreCompileInputs.cache
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.sourcelink.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\scopedcss\bundle\HistoriaApi.styles.css
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.HistoriaApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HistoriaApi.props
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HistoriaApi.props
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HistoriaApi.props
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\Historia.9E842045.Up2Date
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\refint\HistoriaApi.dll
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.pdb
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\HistoriaApi.genruntimeconfig.cache
+C:\Users\tedes\OneDrive\Documentos\GitHub\api\proprio\HistoriaApi\HistoriaApi\obj\Debug\net6.0\ref\HistoriaApi.dll
