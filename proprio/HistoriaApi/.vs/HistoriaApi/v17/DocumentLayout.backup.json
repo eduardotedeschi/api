@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\",
+  "WorkspaceRootPath": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\tedes\\onedrive\\documentos\\github\\api\\proprio\\historiaapi\\historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\dudu\\documents\\estudos prog\\api\\proprio\\historiaapi\\historiaapi\\database\\geniosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\database\\geniosdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\dudu\\documents\\estudos prog\\api\\proprio\\historiaapi\\historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\controllers\\geniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\tedes\\onedrive\\documentos\\github\\api\\proprio\\historiaapi\\historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\dudu\\documents\\estudos prog\\api\\proprio\\historiaapi\\historiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\dudu\\documents\\estudos prog\\api\\proprio\\historiaapi\\historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\genio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|c:\\users\\dudu\\documents\\estudos prog\\api\\proprio\\historiaapi\\historiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C2F32D-4FAB-4378-BF49-E25FF24B4E75}|HistoriaApi\\HistoriaApi.csproj|solutionrelative:historiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,42 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GenioController.cs",
-              "DocumentMoniker": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
+              "DocumentMoniker": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
               "RelativeDocumentMoniker": "HistoriaApi\\Controllers\\GenioController.cs",
-              "ToolTip": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
+              "ToolTip": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Controllers\\GenioController.cs",
               "RelativeToolTip": "HistoriaApi\\Controllers\\GenioController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T12:19:05.809Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeniosDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\DataBase\\GeniosDataBase.cs",
+              "RelativeDocumentMoniker": "HistoriaApi\\DataBase\\GeniosDataBase.cs",
+              "ToolTip": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\DataBase\\GeniosDataBase.cs",
+              "RelativeToolTip": "HistoriaApi\\DataBase\\GeniosDataBase.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:22:42.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Genio.cs",
-              "DocumentMoniker": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
-              "RelativeDocumentMoniker": "HistoriaApi\\Genio.cs",
-              "ToolTip": "C:\\Users\\tedes\\OneDrive\\Documentos\\GitHub\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
-              "RelativeToolTip": "HistoriaApi\\Genio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:19:03.115Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HistoriaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\appsettings.json",
+              "RelativeToolTip": "HistoriaApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T01:26:47.579Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Program.cs",
+              "RelativeDocumentMoniker": "HistoriaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Program.cs",
+              "RelativeToolTip": "HistoriaApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:51:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genio.cs",
+              "DocumentMoniker": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
+              "RelativeDocumentMoniker": "HistoriaApi\\Genio.cs",
+              "ToolTip": "C:\\Users\\dudu\\Documents\\estudos prog\\api\\proprio\\HistoriaApi\\HistoriaApi\\Genio.cs",
+              "RelativeToolTip": "HistoriaApi\\Genio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:19:03.115Z"
             }
           ]
         }

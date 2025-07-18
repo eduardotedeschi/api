@@ -2,9 +2,9 @@ namespace HistoriaApi
 {
     public class Genio
     {
-        public int GenioID { get; set; }
+        public int ID { get; set; }
 
-        public string GenioNome { get; set; } = string.Empty;
+        public string Nome { get; set; } = string.Empty;
 
         public int AnoNascimento { get; set; }
 
